@@ -226,3 +226,8 @@ footer li {
   display: inline-block;
   margin: 0px 25px;
 }
+
+footer li img {
+  width: 30px;
+  height: 30px;
+}
